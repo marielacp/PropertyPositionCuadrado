@@ -1,0 +1,51 @@
+.quadrate1 {
+position: absolute;
+background: red;
+height: 300px;
+width: 300px;
+top: 30px;
+left: 100px;
+}
+
+.subquadrate1 {
+    position: absolute;
+    background:#7807c4;
+    height: 150px;
+    width: 150px;
+    top: 75px;
+    left: 75px;
+}
+.subquadrate2 {
+    position: absolute;
+    background: yellow;
+    height: 75px;
+    width: 75px;
+    top: 0px;
+ 
+}
+.quadrate2 {
+    position: absolute;
+    background:#0320FA;
+    height: 300px;
+    width: 300px;
+    top: 350px;
+    left: 100px;
+}
+
+.subquadrate21 {
+    position: absolute;
+    background: black;
+    height: 75px;
+    width: 75px;
+    top:0;
+   
+}
+
+.subquadrate22 {
+    position: absolute;
+    background: green;
+    height:150px;
+    width: 150px;
+    top: 75px;
+    left: 75px;
+}
